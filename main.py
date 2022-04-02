@@ -365,8 +365,8 @@ if __name__ == '__main__':
     global password
     global objectRegions
     objectRegions = 12
-    user_name = 'smkudriavtcev'
-    password = '08Spartak'
+    user_name = ''
+    password = ''
     number_of_threads = 10
     ppoz_browser = ppoz_browser.PPOZ_Browser('prom')
     # print(user_name)
